@@ -1,0 +1,3 @@
+[submodule "demos/cypress-e2e-test--demo"]
+	path = demos/cypress-e2e-test--demo
+	url = git@github.com:hz-demos/cypress-e2e-test--demo.git
